@@ -1,0 +1,7 @@
+authtoken: AC6HLshJmhWYXYKZxaQc_FGJeWeafQPsJjKvB81Ud
+log_level: info
+log: ngrok.log
+tunnels:
+  webhook:
+    addr: 8004
+    proto: http
